@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :alibc_trade_sdk-3.1.1.99:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alibc_trade_sdk-3.1.1.99.aar/8de05f84d0b24226edf54d8334852bfa/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/alibc_trade_sdk-3.1.1.99.aar/8de05f84d0b24226edf54d8334852bfa/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
